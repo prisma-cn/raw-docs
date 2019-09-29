@@ -1,0 +1,12 @@
+*/.git
+*/.vscode/
+*/.github/
+*/.gitignore/
+*/.circleci/
+*/.buildkite/
+*/design/
+*/packages/
+*/src/
+*/config/
+*/website/
+*/cli/
